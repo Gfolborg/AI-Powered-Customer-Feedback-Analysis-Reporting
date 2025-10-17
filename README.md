@@ -4,7 +4,7 @@
 
 <h1>AI-Powered Customer Feedback Reporting Engine</h1>
 <p>
-This Intelligent Automation (IA) workflow was designed to solve common issues (email fatigue, lack of metrics) found in a basic automation that sent emails for every negative feedback submitted. It transforms raw customer feedback into scheduled, actionable Business Intelligence (BI) reports. The system uses a weekly trigger to analyze data, generate strategic suggestions for improvement, and deliver visual insights via Google Looker Studio to leadership teams.
+This AI Automated system transforms raw feedback into structured, actionable insights. Rather than sending emails on every negative response, it aggregates data on a weekly schedule, analyzes sentiment, and produces visual dashboards in Google Looker Studio. The system also generates strategic improvement recommendations for leadership teams, enabling data-driven decisions that improve customer experience.
 </p>
 
 <h2>Environments and Technologies Used</h2>
